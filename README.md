@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-Hello, this task is done by Hazem Salah on 12/1/2022, it was a challenge from "https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj".
+Hello, this task is done by Hazem Salah on 17/1/2022, it was a challenge from "https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj".
